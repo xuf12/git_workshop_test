@@ -1,0 +1,1 @@
+If you have opened this in your Github account in your browser, STOP. Do not proceed past this point until you have opened this file locally after cloning the test repository to your desktop.
